@@ -12,7 +12,7 @@ const DesignLayout = ({
 }: React.PropsWithChildren<Props>) => (
   <div className="mx-auto flex h-screen flex-col justify-between px-20">
     <div className="">{content}</div>
-    <div className="flex justify-between bg-white py-4">
+    <div className="sticky bottom-0 flex justify-between bg-white p-4 shadow-inner">
       <div className="flex items-center gap-8">
         <a className="cursor-pointer" href={prev_design_link}>
           {"<"} Prev
