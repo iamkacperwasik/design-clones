@@ -1,7 +1,7 @@
-import DesignLayout from "./components/DesignLayout"
-import FirstDesign from "./designs/FirstDesign"
-import SecondDesign from "./designs/SecondDesign"
-import ThirdDesign from "./designs/ThirdDesign"
+import DesignLayout from "./DesignLayout"
+import FirstDesign from "./designs/first"
+import SecondDesign from "./designs/second"
+import ThirdDesign from "./designs/third"
 
 export default function App() {
   const {pathname} = location
