@@ -34,12 +34,12 @@ const DesignLayout = ({
         </div>
         <div>
           <a href={link} target="_blank">
-            Dribble Design
+            Design Source
           </a>
         </div>
         <div>
           <a
-            href="https://github.com/iamkacperwasik/dribble-clones"
+            href="https://github.com/iamkacperwasik/design-clones"
             target="_blank"
           >
             Github Repo
