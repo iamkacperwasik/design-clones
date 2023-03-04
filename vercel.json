@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {"source": "/", "destination": "/"},
+    {"source": "/(.*)", "destination": "/"},
+    {"source": "/design-1", "destination": "/design-1"},
+    {"source": "/design-2", "destination": "/design-2"},
+    {"source": "/design-3", "destination": "/design-3"}
+  ]
+}
